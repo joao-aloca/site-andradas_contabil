@@ -1,8 +1,8 @@
 :root {
     --cor-primaria: #ffffffea;
-    --cor-secundaria: #fcaf14;
-    --cor-terciaria: #252525;
-    --cor-quaternaria: rgb(48, 69, 92);
+    --cor-secundaria: #AF9044;
+    --cor-terciaria: #122846;
+    --cor-quaternaria: #252525;
 }
 
 body {
@@ -26,11 +26,11 @@ body {
 }
 
 .navegacao__links__link {
-    color: var(--cor-terciaria);
+    color: var(--cor-quaternaria);
 }
 
 .navegacao__links__link-cliente {
-    color: var(--cor-terciaria);
+    color: var(--cor-primaria);
     margin: 0 0 0 200px;
     padding: 15px;
     background-color: var(--cor-secundaria);
@@ -68,7 +68,7 @@ footer {
     margin: 40% 0 0 0;
     padding: 5% 10% 5% 2%;
     background-color: var(--cor-secundaria);
-    color: var(--cor-terciaria);
+    color: var(--cor-quaternaria);
 }
 
 .rodape__divisoria {
