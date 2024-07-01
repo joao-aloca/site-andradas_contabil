@@ -1,5 +1,5 @@
 :root {
-    --cor-primaria: #ffffff;
+    --cor-primaria: #ffffffea;
     --cor-secundaria: #fcaf14;
     --cor-terciaria: #252525;
     --cor-quaternaria: rgb(48, 69, 92);
@@ -41,7 +41,7 @@ body {
     display: flex;
     justify-content: center;
     margin: 5% 15% 0 15%;
-    align-items: center;
+    align-items: start;
     gap: 6%;
 }
 
